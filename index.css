@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(11, 250, 254);
+    font-size: 18px;
+}
+
+.banner{
+    background-image: url(https://t.ctcdn.com.br/kURxxRJ2_cGXqjK_ivcO2SOoG80=/640x360/smart/i291115.jpeg);
+    height: 600px;
+    background-size: cover;
+    background-position: right center;
+}
+
+.titulo{
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 200px;
+    color: rgb(11, 250, 254);
+    font-size: 20px;
+    text-shadow: 2px 2px 2px blue;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+section{
+    padding-top: 16px;
+}
+
+article{
+    background-color: rgb(161, 238, 253);
+    padding: 16px;
+    margin-bottom: 32px;
+}
+
+article h2{
+    border-bottom: 2px solid aquamarine;
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+}
+
+.img{
+    width: 500px;
+    padding-left: 300px;
+}
